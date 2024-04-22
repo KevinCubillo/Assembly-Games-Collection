@@ -1,5 +1,5 @@
 # Assembly-Games-Collection
-A collection of assembly language projects showcasing implementations of classic games
+A collection of NASM assembly language projects showcasing implementations of classic games
 
 ## Description
 
