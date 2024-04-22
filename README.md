@@ -15,7 +15,7 @@ sudo apt-get install nasm
 sudo apt-get install binutils
 
 ## How to Run
-
+Run the following command in the root of each game:
 ```bash
 ./run.sh
 
