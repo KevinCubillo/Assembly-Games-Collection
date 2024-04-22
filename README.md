@@ -13,3 +13,12 @@ You can install NASM (Netwide Assembler) on Ubuntu using the following commands:
 sudo apt-get update
 sudo apt-get install nasm
 sudo apt-get install binutils
+
+## How to Run
+
+```bash
+./run.sh
+
+### Hangman Game
+
+![Hangman Game Screenshot](screenshots/ahorcado-1.png)
