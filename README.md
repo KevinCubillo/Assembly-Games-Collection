@@ -13,12 +13,22 @@ You can install NASM (Netwide Assembler) on Ubuntu using the following commands:
 sudo apt-get update
 sudo apt-get install nasm
 sudo apt-get install binutils
+```
 
 ## How to Run
-Run the following command in the root of each game:
+
 ```bash
 ./run.sh
-
+```
 ### Hangman Game
 
 ![Hangman Game Screenshot](screenshots/ahorcado-1.png)
+![Hangman Game Screenshot](screenshots/ahorcado-2.png)
+![Hangman Game Screenshot](screenshots/ahorcado-3.png)
+![Hangman Game Screenshot](screenshots/ahorcado-4.png)
+
+### Tic-Tac-Toe
+
+![Tic-Tac-Toe Screenshot](screenshots/tic-tac-toe-1.png)
+![Tic-Tac-Toe Screenshot](screenshots/tic-tac-toe-2.png)
+![Tic-Tac-Toe Screenshot](screenshots/tic-tac-toe-3.png)
